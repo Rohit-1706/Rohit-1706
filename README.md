@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/itschowdhury27" target="blank"><img src="https://img.shields.io/twitter/follow/itschowdhury27?logo=twitter&style=for-the-badge" alt="itschowdhury27" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **Python, LLMs, GenAI**
 
 - 📫 How to reach me **rohitchowdhury2711@gmail.com**
 
